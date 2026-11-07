@@ -1,0 +1,11 @@
+streamlit>=1.40
+sentence-transformers>=3.0
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.20
+pandas>=2.1
+
+# Optional, for Streamlit Community Cloud: uncomment the next line to install the
+# smaller CPU-only build of PyTorch (saves memory and install time). Leave it
+# commented for local installs on macOS.
+# --extra-index-url https://download.pytorch.org/whl/cpu

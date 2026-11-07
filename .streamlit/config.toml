@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+primaryColor = "#7C83FF"
+backgroundColor = "#0B1020"
+secondaryBackgroundColor = "#121A33"
+textColor = "#E6EAF5"
+font = "sans serif"
+
+[server]
+# Keeps the app quiet when the file watcher sees torch internals
+fileWatcherType = "none"
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
